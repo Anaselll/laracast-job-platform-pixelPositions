@@ -1,0 +1,8 @@
+@import "tailwindcss";
+body{
+  background-color: #F8F9FA;
+}
+@theme{
+  --color-ring:#007BFF;
+  --color-gold:#F4A100
+}
